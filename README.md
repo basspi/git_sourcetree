@@ -1,3 +1,4 @@
 #git_sourcetree
-##hotfix �߰�
+##hotfix Ãß°¡
 This repository is test repository for SourceTree.
+##edit on Github
